@@ -167,7 +167,7 @@ END:VCARD`;
         </div>
 
         <footer className="mt-16 pb-8 text-center opacity-40 text-[8px] font-bold tracking-[0.6em] uppercase text-white">
-          Julnar Perfume © 2026
+          CraftHub © 2026
         </footer>
       </div>
 
